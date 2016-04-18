@@ -1,0 +1,48 @@
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+    font-size: 275%;
+    color: white;
+}
+
+#index {
+	background-image: url("lib/GoTmap.jpg");
+}
+
+#valar {
+    text-align:left; 
+    vertical-align:middle;
+}
+
+#results {
+		
+	background-image: url("lib/dragon.jpg");
+	background-size: 1300px 725px;
+	background-repeat: no repeat;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	color: white;
+}
+
+li:hover{
+	color: red;
+}
+
+#change {
+	
+	background-image: url("lib/edit.jpg");
+	background-size: 1300px 725px;
+	background-repeat: no repeat;
+}
+
+#form {
+	color: "white";
+}
